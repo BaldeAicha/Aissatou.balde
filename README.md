@@ -1,2 +1,2 @@
 # Aissatou.balde
-Porfolio Data Analyst|scientist
+Porfolio Data Analyst & Statisticienne
