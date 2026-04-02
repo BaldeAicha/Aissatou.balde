@@ -19,7 +19,7 @@ Passionnée par la transformation des données brutes en insights stratégiques,
 
 ## 📂 Projets & Portfolio (Code source disponible)
 
-### 🛒 [Architecture de Données & Stratégie CRM](LIEN_VERS_TON_PROJET_SQL)
+### 🛒 [Architecture de Données & Stratégie CRM](https://github.com/BaldeAicha/Projet)
 *Cas d'étude : Optimisation de campagnes promotionnelles (Type Carrefour).*
 - **Technos :** SQL (PostgreSQL), Modélisation Relationnelle.
 - **Key :** Conception d'une infrastructure liant tickets de caisse et cartes de fidélité.
