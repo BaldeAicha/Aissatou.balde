@@ -56,7 +56,7 @@ Mon approche : **partir d'une problématique, explorer les données, produire de
 
 * **Français :** Courant
 * **Poular :** Langue maternelle
-* **English:** En apprentissage — objectif B2
+* **English:** En apprentissage — objectif C1
 
 ---
 
